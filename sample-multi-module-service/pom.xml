@@ -13,14 +13,7 @@
     </parent>
 
     <name>sample-multi-module-service</name>
-    <distributionManagement>
-    <repository>
-   <id>snapshots</id>
-   <url>http://localhost:8081/repository/maven-snapshots</url>
-   </repository>
-   </distributionManagement>
-
-    <dependencies>
+        <dependencies>
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-context</artifactId>
