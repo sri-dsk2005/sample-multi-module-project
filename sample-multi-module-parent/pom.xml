@@ -17,7 +17,7 @@
          <scm>
                   <connection>scm:git:git@github.com/sri-dsk2005/sample-multi-module-project.git</connection>
                   <developerConnection>scm:git:git@github.com/sri-dsk2005/sample-multi-module-project.git</developerConnection>
-                  <tag>HEAD</tag>
+                  <tag>master</tag>
          </scm>         
         
   <distributionManagement>
