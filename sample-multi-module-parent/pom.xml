@@ -56,15 +56,18 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
+         
+         <plugin>
+         <groupId>org.apache.maven.plugins</groupId>
+         <artifactId>maven-release-plugin</artifactId>
+         <version>2.5.2</version>
+      </plugin>
 
     <modules>
         <module>../sample-multi-module-service</module>
         <module>../sample-multi-module-web</module>
     </modules>
-<plugin>
-         <groupId>org.apache.maven.plugins</groupId>
-         <artifactId>maven-release-plugin</artifactId>
-         <version>2.5.2</version>
-         </plugin>
+         
+       
          
 </project>
