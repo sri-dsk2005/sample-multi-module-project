@@ -18,6 +18,7 @@
                   <connection>https://github.com/sri-dsk2005/sample-multi-module-project</connection>
                   <url>https://github.com/sri-dsk2005/sample-multi-module-project</url>
                   <tag>HEAD</tag>
+         </scm>
   <distributionManagement>
      <snapshotRepository>
        <id>snapshots</id>
