@@ -14,11 +14,7 @@
         <spring.version>4.0.0.RELEASE</spring.version>
         <jackson.version>2.3.2</jackson.version>
     </properties>
-         <scm>
-                  <connection>https://github.com/sri-dsk2005/sample-multi-module-project</connection>
-                  <url>https://github.com/sri-dsk2005/sample-multi-module-project</url>
-                  <tag>HEAD</tag>
-         </scm>
+        
   <distributionManagement>
      <snapshotRepository>
        <id>snapshots</id>
