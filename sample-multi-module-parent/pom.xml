@@ -15,9 +15,9 @@
         <jackson.version>2.3.2</jackson.version>
     </properties>
          <scm>
-                  <connection>scm:git:git@github.com/sri-dsk2005/sample-multi-module-project.git</connection>
-                  <developerConnection>scm:git:git@github.com/sri-dsk2005/sample-multi-module-project.git</developerConnection>
-                  <tag>master</tag>
+                  <connection>scm:git:https://github.com/sri-dsk2005/sample-multi-module-project.git</connection>
+                  <developerConnection>scm:git:https://github.com/sri-dsk2005/sample-multi-module-project.git</developerConnection>
+                  <tag>HEAD</tag>
          </scm>         
         
   <distributionManagement>
